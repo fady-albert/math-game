@@ -1,3 +1,13 @@
-math game made with html css js
+# Mathematics Game
 
-in this game you can find unlimited math questions and counter that countsthe questions you solve it and if you make a mistake the game will stop and give you a display contain the number of questions you solved and again button
+A math game built with HTML, CSS, and JavaScript.
+
+## Features
+- Random math questions
+- Score tracking
+- Amazing design
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
