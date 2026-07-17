@@ -31,4 +31,4 @@ https://fady-albert.github.io/math-game/
 use MATH Library 
 
 ## THEME 
-the game is unlimited, it contains unlimited random math questions 
+this game will generate unlimited (endless) number of questions and when user solve the question the counter increase by 1 and if user make a mistake the game will stop and show a display that contain number of questions that the user had solve it and user will find again button to start the game again 
