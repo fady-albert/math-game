@@ -12,9 +12,7 @@ A simple mathematics game built with HTML, CSS, and JavaScript.
 
 # Installation
 
-```bash
-git clone https://github.com/fady-albert/math-game.git
-```
+git clone: https://github.com/fady-albert/math-game.git
 
 Open `index.html` in your browser.
 
