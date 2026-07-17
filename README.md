@@ -1,44 +1,59 @@
 # 🧮 Mathematics Game
 
-An interactive mathematics game built using **HTML**, **CSS**, and **JavaScript**. The game helps users improve their arithmetic skills by solving randomly generated math questions while tracking their score.
+A simple mathematics game built with HTML, CSS, and JavaScript. The game generates random math questions to help players improve their arithmetic skills while having fun.
+
+## 🌐 Live Demo
+
+https://fady-albert.github.io/math-game/
 
 ## ✨ Features
 
-- 🎲 Randomly generated math questions
-- ➕ Supports different arithmetic operations
-- 🏆 Real-time score tracking
-- ⚡ Instant answer validation
-- 🎨 Modern user interface
-- 📱 Works on desktop only
+- Random math questions
+- Addition, subtraction, multiplication, and division
+- Instant answer checking
+- Score tracking
+
+## 🎨 Theme
+
+The game is designed with a modern dark theme inspired by the Matrix style. it helps user to be relaxed when solving equations 
 
 ## 🛠️ Built With
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript (Vanilla)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fady-albert/math-game.git
+   ```
+
+2. Open the project folder.
+
+3. Run `index.html` in your browser.
 
 ## 📂 Project Structure
 
 ```
-Mathematics-Game/
+math-game/
 │── index.html
 │── style.css
 │── script.js
-└── README.md
+└── README.MD
 ```
 
-## 🚀 Getting Started
+## 🎯 Future Improvements
 
-1. Clone the repository:
+- Difficulty levels
+- Timer mode
+- Sound effects
+- Leaderboard
+- More question types
 
-```bash
-git clone https://github.com/your-username/mathematics-game.git
-```
+## 👨‍💻 Author
 
-2. Open the project folder.
+**Fady Albert**
 
-3. Run `index.html` in your web browser.
-
-## 🎯 Purpose
-
-This project was created to practice JavaScript by building an interactive educational game. It focuses on DOM manipulation, event handling, random number generation, and user interaction.
+GitHub: https://github.com/fady-albert
