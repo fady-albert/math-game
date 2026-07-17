@@ -12,15 +12,13 @@ a game made with html, CSS and js.
 - js
 ```
 
-# installation 
+# Installation
 
-```
-1- clone the files
-2- run index.html in your browser 
-
-https://github.com/fady-albert/math-game
+```bash
+git clone https://github.com/fady-albert/math-game.git
 ```
 
+Open `index.html` in your browser.
 # demo link
 
 link: 
