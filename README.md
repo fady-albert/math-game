@@ -14,10 +14,12 @@ a game made with html, CSS and js.
 
 # installation 
 
+```
 1- clone the files
 2- run index.html in your browser 
 
 GitHub link: 
+```
 
 # demo link
 
