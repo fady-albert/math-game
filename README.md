@@ -1,16 +1,14 @@
-# MATHEMATICS GAME 
+# MATHEMATICS GAME
 
-## short description
+## Short Description
 
-a game made with html, CSS and js.
+A simple mathematics game built with HTML, CSS, and JavaScript.
 
-# programming language 
+# Programming Languages
 
-```
-- html
+- HTML
 - CSS
-- js
-```
+- JavaScript
 
 # Installation
 
@@ -19,11 +17,16 @@ git clone https://github.com/fady-albert/math-game.git
 ```
 
 Open `index.html` in your browser.
-# demo link
 
-link: 
+# Demo Link
 
-# structure 
+https://fady-albert.github.io/math-game/
+
+# Theme
+
+A simple dark-themed mathematics game that helps users practice basic math with randomly generated questions.
+
+# Structure
 
 ```
 - index.html
